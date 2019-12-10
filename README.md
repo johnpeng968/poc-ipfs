@@ -22,3 +22,4 @@ A demonstration version of the application is currently deployed at the followin
 
 * client - <https://ipfs.iota.org>
 * api - <https://ipfs-api.iota.org>
+[![Run on Repl.it](https://repl.it/badge/github/iotaledger/poc-ipfs)](https://repl.it/github/iotaledger/poc-ipfs)
